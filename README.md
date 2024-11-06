@@ -39,7 +39,9 @@ Vamos criar uma WordCloud com as palavras que mais aparecem
 # 3-Criacao Do Modelo
 ![image](https://github.com/user-attachments/assets/6fd64b9f-4305-4edd-b331-67af23d1e1ea)
 ![image](https://github.com/user-attachments/assets/7ae5cbec-70cb-4cc0-8b14-925d6e175e68)
+
 ->MODELAGEM
+
 ![image](https://github.com/user-attachments/assets/911cc1f1-22ea-412e-af35-59b1e754a26c)
 ![image](https://github.com/user-attachments/assets/8a07375e-6cbc-4ecd-a15c-fed2eceb9270)
 ![image](https://github.com/user-attachments/assets/73e1d74c-6a31-41eb-9831-90e1eba62bdd)
@@ -52,7 +54,12 @@ Vamos criar uma WordCloud com as palavras que mais aparecem
 -->Agora temos o modelo pronto,iremos criar a API
 
 # 4-API
+Já no vscode:
+![image](https://github.com/user-attachments/assets/37cf053a-f98a-44f9-90e5-7d8796b1aee1)
+![image](https://github.com/user-attachments/assets/1f1f1cc1-6afe-4b7f-9415-abbbb9316fd0)
+![image](https://github.com/user-attachments/assets/bf52b467-4634-48fd-a48c-be5be3f84ad5)
 
+E a API esta pronta pra usos diversos.Obrigado pela atencao!!
 
 
 
