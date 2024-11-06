@@ -1,7 +1,8 @@
 # API-classificacao-de-sentimento
 Criacao de uma API contendo um  modelo de classificacao onde separa o texto em dois grupos:Positivo e Negativo.Utilizando um dataset do Kaggle com 1 milhao de tweets em ingles
 
-#1-Pré-Processamento
+# 1-Pré-Processamento
+
 ![image](https://github.com/user-attachments/assets/f1fe50eb-88bc-47a6-a465-6c96a0554470)
 ![image](https://github.com/user-attachments/assets/be43674a-301e-444c-af80-41942b3bbbdb)
 ![image](https://github.com/user-attachments/assets/191c6f3f-f456-45ee-a40d-9da4c93a8156)
@@ -19,7 +20,7 @@ Criacao de uma API contendo um  modelo de classificacao onde separa o texto em d
 
 -->Agora temos o dataset pronto e limpo para a criacao do modelo!
 
-#2-Analise e insights 
+# 2-Analise e insights 
 
 Criando uma coluna com a largura dos tweets
 ![image](https://github.com/user-attachments/assets/62200628-59b1-4d07-8023-6d9fc0b18f37)
@@ -35,7 +36,7 @@ Vamos criar uma WordCloud com as palavras que mais aparecem
 ![image](https://github.com/user-attachments/assets/40e10654-3973-479f-a85a-2968588dd0ef)
 ![image](https://github.com/user-attachments/assets/542bd5c4-7745-4e2c-b545-ed32cbc7d9ea)
 
-#3-Criacao Do Modelo
+# 3-Criacao Do Modelo
 ![image](https://github.com/user-attachments/assets/6fd64b9f-4305-4edd-b331-67af23d1e1ea)
 ![image](https://github.com/user-attachments/assets/7ae5cbec-70cb-4cc0-8b14-925d6e175e68)
 ->MODELAGEM
@@ -50,7 +51,7 @@ Vamos criar uma WordCloud com as palavras que mais aparecem
 ![image](https://github.com/user-attachments/assets/28925f7a-75e1-4381-b85b-f038930f99a7)
 -->Agora temos o modelo pronto,iremos criar a API
 
-#4-API
+# 4-API
 
 
 
