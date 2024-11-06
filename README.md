@@ -1,6 +1,6 @@
 # API-classificacao-de-sentimento
 Criacao de uma API contendo um  modelo de classificacao onde separa o texto em dois grupos:Positivo e Negativo.Utilizando um dataset do Kaggle com 1 milhao de tweets em ingles
-
+Projeto Completo
 # 1-Pré-Processamento
 
 ![image](https://github.com/user-attachments/assets/f1fe50eb-88bc-47a6-a465-6c96a0554470)
